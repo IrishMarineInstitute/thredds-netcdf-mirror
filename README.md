@@ -1,6 +1,8 @@
 # thredds-netcdf-mirror
 Mirror the netcdf files from a tds/thredds catalog to local disk. Runs locally or in docker.
 
+![](demo.gif)
+
 # Running locally
 
 This is a python3 application
